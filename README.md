@@ -1,4 +1,4 @@
-# speech_to_text
+
 <h1 align="center"> Program to convert speech to text </h1>
 
 <p> This program recognizes the speech and them converts to text, with the "speech_recognition" library and the <strong> Google Web Speech API</strong> </p>
